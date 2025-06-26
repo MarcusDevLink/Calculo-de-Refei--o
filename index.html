@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Refeições do Dia</title>
+    <link rel="stylesheet" href="main.css">
+</head>
+
+<body>
+    <h2>Calculadora de Refeições</h2>
+
+    <label for="refeicaoTipo">Selecione a refeição:</label>
+    <select id="refeicaoTipo">
+        <option value="cafe">Café da manhã</option>
+        <option value="almoco">Almoço</option>
+        <option value="jantar">Jantar</option>
+    </select>
+
+    <label for="alimento">Adicione alimento (ex: arroz 100g):</label>
+    <input type="text" id="alimento" placeholder="Ex: arroz 100g">
+    <button onclick="adicionarAlimento()">Adicionar</button>
+    <button onclick="limparRefeicoes()" style="background-color: #dc3545; color: white;">Limpar Tudo</button>
+
+    <div id="containerRefeicoes"></div>
+
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="main.js"></script>
+</body>
+
+</html>
