@@ -1,0 +1,1010 @@
+{
+    "arroz": {
+        "cal": 130,
+        "prot": 2.7,
+        "carb": 28,
+        "gord": 0.3
+    },
+    "feijao": {
+        "cal": 76,
+        "prot": 4.8,
+        "carb": 13.6,
+        "gord": 0.5
+    },
+    "frango": {
+        "cal": 165,
+        "prot": 31,
+        "carb": 0,
+        "gord": 3.6
+    },
+    "ovo": {
+        "cal": 143,
+        "prot": 13,
+        "carb": 1.1,
+        "gord": 9.5
+    },
+    "carne bovina": {
+        "cal": 250,
+        "prot": 26,
+        "carb": 0,
+        "gord": 17
+    },
+    "peixe": {
+        "cal": 120,
+        "prot": 22,
+        "carb": 0,
+        "gord": 3
+    },
+    "macarrao": {
+        "cal": 131,
+        "prot": 5,
+        "carb": 25,
+        "gord": 1.1
+    },
+    "pao": {
+        "cal": 265,
+        "prot": 9,
+        "carb": 49,
+        "gord": 3.2
+    },
+    "batata": {
+        "cal": 77,
+        "prot": 2,
+        "carb": 17,
+        "gord": 0.1
+    },
+    "banana": {
+        "cal": 89,
+        "prot": 1.1,
+        "carb": 23,
+        "gord": 0.3
+    },
+    "maçã": {
+        "cal": 52,
+        "prot": 0.3,
+        "carb": 14,
+        "gord": 0.2
+    },
+    "abacate": {
+        "cal": 160,
+        "prot": 2,
+        "carb": 9,
+        "gord": 15
+    },
+    "leite": {
+        "cal": 42,
+        "prot": 3.4,
+        "carb": 5,
+        "gord": 1
+    },
+    "iogurte": {
+        "cal": 59,
+        "prot": 10,
+        "carb": 3.6,
+        "gord": 0.4
+    },
+    "queijo": {
+        "cal": 402,
+        "prot": 25,
+        "carb": 1.3,
+        "gord": 33
+    },
+    "presunto": {
+        "cal": 145,
+        "prot": 20,
+        "carb": 1.5,
+        "gord": 6
+    },
+    "cenoura": {
+        "cal": 41,
+        "prot": 0.9,
+        "carb": 10,
+        "gord": 0.2
+    },
+    "alface": {
+        "cal": 15,
+        "prot": 1.4,
+        "carb": 2.9,
+        "gord": 0.2
+    },
+    "tomate": {
+        "cal": 18,
+        "prot": 0.9,
+        "carb": 3.9,
+        "gord": 0.2
+    },
+    "repolho": {
+        "cal": 25,
+        "prot": 1.3,
+        "carb": 6,
+        "gord": 0.1
+    },
+    "morango": {
+        "cal": 32,
+        "prot": 0.7,
+        "carb": 7.7,
+        "gord": 0.3
+    },
+    "laranja": {
+        "cal": 47,
+        "prot": 0.9,
+        "carb": 12,
+        "gord": 0.1
+    },
+    "manga": {
+        "cal": 60,
+        "prot": 0.8,
+        "carb": 15,
+        "gord": 0.4
+    },
+    "melancia": {
+        "cal": 30,
+        "prot": 0.6,
+        "carb": 8,
+        "gord": 0.2
+    },
+    "pêssego": {
+        "cal": 39,
+        "prot": 0.9,
+        "carb": 10,
+        "gord": 0.3
+    },
+    "pera": {
+        "cal": 57,
+        "prot": 0.4,
+        "carb": 15,
+        "gord": 0.1
+    },
+    "granola": {
+        "cal": 471,
+        "prot": 10,
+        "carb": 64,
+        "gord": 20
+    },
+    "aveia": {
+        "cal": 389,
+        "prot": 17,
+        "carb": 66,
+        "gord": 7
+    },
+    "mel": {
+        "cal": 304,
+        "prot": 0.3,
+        "carb": 82,
+        "gord": 0
+    },
+    "açúcar": {
+        "cal": 387,
+        "prot": 0,
+        "carb": 100,
+        "gord": 0
+    },
+    "azeite": {
+        "cal": 884,
+        "prot": 0,
+        "carb": 0,
+        "gord": 100
+    },
+    "óleo de soja": {
+        "cal": 884,
+        "prot": 0,
+        "carb": 0,
+        "gord": 100
+    },
+    "manteiga": {
+        "cal": 717,
+        "prot": 0.9,
+        "carb": 0.1,
+        "gord": 81
+    },
+    "requeijao": {
+        "cal": 257,
+        "prot": 7,
+        "carb": 5,
+        "gord": 24
+    },
+    "salsicha": {
+        "cal": 289,
+        "prot": 11,
+        "carb": 2.6,
+        "gord": 26
+    },
+    "hamburguer": {
+        "cal": 250,
+        "prot": 17,
+        "carb": 3,
+        "gord": 20
+    },
+    "pizza": {
+        "cal": 266,
+        "prot": 11,
+        "carb": 33,
+        "gord": 10
+    },
+    "lasanha": {
+        "cal": 135,
+        "prot": 6,
+        "carb": 14,
+        "gord": 6
+    },
+    "biscoito": {
+        "cal": 502,
+        "prot": 5.7,
+        "carb": 72,
+        "gord": 23
+    },
+    "bolo": {
+        "cal": 295,
+        "prot": 4,
+        "carb": 50,
+        "gord": 10
+    },
+    "sorvete": {
+        "cal": 207,
+        "prot": 3.5,
+        "carb": 24,
+        "gord": 11
+    },
+    "chocolate": {
+        "cal": 546,
+        "prot": 4.9,
+        "carb": 61,
+        "gord": 31
+    },
+    "cafe": {
+        "cal": 2,
+        "prot": 0.3,
+        "carb": 0,
+        "gord": 0
+    },
+    "cha": {
+        "cal": 1,
+        "prot": 0,
+        "carb": 0.3,
+        "gord": 0
+    },
+    "suco de laranja": {
+        "cal": 45,
+        "prot": 0.7,
+        "carb": 10.4,
+        "gord": 0.2
+    },
+    "refrigerante": {
+        "cal": 42,
+        "prot": 0,
+        "carb": 11,
+        "gord": 0
+    },
+    "cerveja": {
+        "cal": 43,
+        "prot": 0.5,
+        "carb": 3.6,
+        "gord": 0
+    },
+    "vinho": {
+        "cal": 85,
+        "prot": 0.1,
+        "carb": 2.6,
+        "gord": 0
+    },
+    "água de coco": {
+        "cal": 19,
+        "prot": 0.7,
+        "carb": 3.7,
+        "gord": 0.2
+    },
+    "abacaxi": {
+        "cal": 50,
+        "prot": 0.5,
+        "carb": 13,
+        "gord": 0.1
+    },
+    "abobrinha": {
+        "cal": 17,
+        "prot": 1.2,
+        "carb": 3.1,
+        "gord": 0.3
+    },
+    "acelga": {
+        "cal": 19,
+        "prot": 1.8,
+        "carb": 3.7,
+        "gord": 0.2
+    },
+    "agrião": {
+        "cal": 11,
+        "prot": 2.3,
+        "carb": 1.3,
+        "gord": 0.1
+    },
+    "alho": {
+        "cal": 149,
+        "prot": 6.4,
+        "carb": 33,
+        "gord": 0.5
+    },
+    "amendoim": {
+        "cal": 567,
+        "prot": 26,
+        "carb": 16,
+        "gord": 49
+    },
+    "amora": {
+        "cal": 43,
+        "prot": 1.4,
+        "carb": 10,
+        "gord": 0.5
+    },
+    "anchova": {
+        "cal": 131,
+        "prot": 20,
+        "carb": 0,
+        "gord": 5
+    },
+    "arroz integral": {
+        "cal": 111,
+        "prot": 2.6,
+        "carb": 23,
+        "gord": 0.9
+    },
+    "aspargo": {
+        "cal": 20,
+        "prot": 2.2,
+        "carb": 3.9,
+        "gord": 0.1
+    },
+    "azeitonas verdes": {
+        "cal": 145,
+        "prot": 1,
+        "carb": 4,
+        "gord": 15
+    },
+    "banana prata": {
+        "cal": 89,
+        "prot": 1.1,
+        "carb": 23,
+        "gord": 0.3
+    },
+    "batata doce": {
+        "cal": 86,
+        "prot": 1.6,
+        "carb": 20,
+        "gord": 0.1
+    },
+    "berinjela": {
+        "cal": 25,
+        "prot": 1,
+        "carb": 6,
+        "gord": 0.2
+    },
+    "beterraba": {
+        "cal": 43,
+        "prot": 1.6,
+        "carb": 10,
+        "gord": 0.2
+    },
+    "bife de fígado": {
+        "cal": 165,
+        "prot": 26,
+        "carb": 4,
+        "gord": 4.8
+    },
+    "blanquet de peru": {
+        "cal": 110,
+        "prot": 21,
+        "carb": 2,
+        "gord": 3
+    },
+    "brócolis": {
+        "cal": 34,
+        "prot": 2.8,
+        "carb": 7,
+        "gord": 0.4
+    },
+    "café coado": {
+        "cal": 1,
+        "prot": 0.1,
+        "carb": 0,
+        "gord": 0
+    },
+    "camarão": {
+        "cal": 99,
+        "prot": 24,
+        "carb": 0,
+        "gord": 0.3
+    },
+    "canjica": {
+        "cal": 111,
+        "prot": 3,
+        "carb": 23,
+        "gord": 1
+    },
+    "cappuccino": {
+        "cal": 50,
+        "prot": 3,
+        "carb": 5,
+        "gord": 1.5
+    },
+    "castanha de caju": {
+        "cal": 553,
+        "prot": 18,
+        "carb": 30,
+        "gord": 44
+    },
+    "castanha do pará": {
+        "cal": 656,
+        "prot": 14,
+        "carb": 12,
+        "gord": 66
+    },
+    "cebola": {
+        "cal": 40,
+        "prot": 1.1,
+        "carb": 9,
+        "gord": 0.1
+    },
+    "cereal matinal": {
+        "cal": 375,
+        "prot": 7,
+        "carb": 84,
+        "gord": 1
+    },
+    "chocolate meio amargo": {
+        "cal": 546,
+        "prot": 4.9,
+        "carb": 61,
+        "gord": 31
+    },
+    "couve": {
+        "cal": 49,
+        "prot": 4.3,
+        "carb": 9,
+        "gord": 0.9
+    },
+    "couve-flor": {
+        "cal": 25,
+        "prot": 2,
+        "carb": 5,
+        "gord": 0.3
+    },
+    "creme de leite": {
+        "cal": 340,
+        "prot": 2,
+        "carb": 3,
+        "gord": 35
+    },
+    "damasco seco": {
+        "cal": 241,
+        "prot": 3.4,
+        "carb": 63,
+        "gord": 0.5
+    },
+    "ervilha": {
+        "cal": 81,
+        "prot": 5,
+        "carb": 14,
+        "gord": 0.4
+    },
+    "farinha de trigo": {
+        "cal": 364,
+        "prot": 10,
+        "carb": 76,
+        "gord": 1
+    },
+    "farinha de mandioca": {
+        "cal": 366,
+        "prot": 1,
+        "carb": 87,
+        "gord": 0.4
+    },
+    "farofa": {
+        "cal": 360,
+        "prot": 3,
+        "carb": 65,
+        "gord": 8
+    },
+    "fígado de boi": {
+        "cal": 135,
+        "prot": 20,
+        "carb": 3,
+        "gord": 4
+    },
+    "figo": {
+        "cal": 74,
+        "prot": 0.8,
+        "carb": 19,
+        "gord": 0.3
+    },
+    "gengibre": {
+        "cal": 80,
+        "prot": 1.8,
+        "carb": 18,
+        "gord": 0.8
+    },
+    "goiaba": {
+        "cal": 68,
+        "prot": 2.6,
+        "carb": 14,
+        "gord": 0.9
+    },
+    "grão de bico": {
+        "cal": 164,
+        "prot": 9,
+        "carb": 27,
+        "gord": 3
+    },
+    "graviola": {
+        "cal": 66,
+        "prot": 1,
+        "carb": 17,
+        "gord": 0.3
+    },
+    "hambúrguer de soja": {
+        "cal": 210,
+        "prot": 18,
+        "carb": 13,
+        "gord": 10
+    },
+    "inhame": {
+        "cal": 118,
+        "prot": 1.5,
+        "carb": 27,
+        "gord": 0.2
+    },
+    "jabuticaba": {
+        "cal": 50,
+        "prot": 0.7,
+        "carb": 13,
+        "gord": 0.1
+    },
+    "jaca": {
+        "cal": 95,
+        "prot": 1.7,
+        "carb": 23,
+        "gord": 0.6
+    },
+    "jerimum": {
+        "cal": 20,
+        "prot": 1,
+        "carb": 4.8,
+        "gord": 0.1
+    },
+    "jiló": {
+        "cal": 29,
+        "prot": 1,
+        "carb": 6,
+        "gord": 0.2
+    },
+    "kiwi": {
+        "cal": 61,
+        "prot": 1.1,
+        "carb": 15,
+        "gord": 0.5
+    },
+    "laranja lima": {
+        "cal": 47,
+        "prot": 0.9,
+        "carb": 12,
+        "gord": 0.1
+    },
+    "lentilha": {
+        "cal": 116,
+        "prot": 9,
+        "carb": 20,
+        "gord": 0.4
+    },
+    "lima da pérsia": {
+        "cal": 30,
+        "prot": 0.2,
+        "carb": 10,
+        "gord": 0
+    },
+    "macadâmia": {
+        "cal": 718,
+        "prot": 8,
+        "carb": 14,
+        "gord": 76
+    },
+    "mamão": {
+        "cal": 43,
+        "prot": 0.5,
+        "carb": 11,
+        "gord": 0.3
+    },
+    "maracujá": {
+        "cal": 97,
+        "prot": 2.2,
+        "carb": 23,
+        "gord": 0.7
+    },
+    "margarina": {
+        "cal": 717,
+        "prot": 0.2,
+        "carb": 0,
+        "gord": 81
+    },
+    "maxixe": {
+        "cal": 19,
+        "prot": 1,
+        "carb": 4,
+        "gord": 0.1
+    },
+    "melão": {
+        "cal": 34,
+        "prot": 0.8,
+        "carb": 9,
+        "gord": 0.1
+    },
+    "mexerica": {
+        "cal": 53,
+        "prot": 0.8,
+        "carb": 13,
+        "gord": 0.3
+    },
+    "milho verde": {
+        "cal": 86,
+        "prot": 3.2,
+        "carb": 19,
+        "gord": 1.2
+    },
+    "mostarda": {
+        "cal": 27,
+        "prot": 3.2,
+        "carb": 0.5,
+        "gord": 1.6
+    },
+    "mussarela": {
+        "cal": 280,
+        "prot": 28,
+        "carb": 2,
+        "gord": 17
+    },
+    "nectarina": {
+        "cal": 44,
+        "prot": 1,
+        "carb": 11,
+        "gord": 0.3
+    },
+    "noz pecã": {
+        "cal": 691,
+        "prot": 9,
+        "carb": 14,
+        "gord": 72
+    },
+    "noz": {
+        "cal": 654,
+        "prot": 15,
+        "carb": 14,
+        "gord": 65
+    },
+    "palmito": {
+        "cal": 26,
+        "prot": 2.2,
+        "carb": 5.6,
+        "gord": 0.4
+    },
+    "pão francês": {
+        "cal": 265,
+        "prot": 9,
+        "carb": 49,
+        "gord": 3.2
+    },
+    "pão integral": {
+        "cal": 250,
+        "prot": 12,
+        "carb": 45,
+        "gord": 3
+    },
+    "pepino": {
+        "cal": 16,
+        "prot": 0.7,
+        "carb": 3.6,
+        "gord": 0.1
+    },
+    "pimentão": {
+        "cal": 31,
+        "prot": 1,
+        "carb": 6,
+        "gord": 0.3
+    },
+    "pitanga": {
+        "cal": 48,
+        "prot": 0.9,
+        "carb": 12,
+        "gord": 0.4
+    },
+    "queijo branco": {
+        "cal": 280,
+        "prot": 20,
+        "carb": 3,
+        "gord": 22
+    },
+    "queijo prato": {
+        "cal": 356,
+        "prot": 25,
+        "carb": 2,
+        "gord": 27
+    },
+    "queijo ricota": {
+        "cal": 174,
+        "prot": 11,
+        "carb": 3,
+        "gord": 13
+    },
+    "rabanete": {
+        "cal": 16,
+        "prot": 0.7,
+        "carb": 3.4,
+        "gord": 0.1
+    },
+    "romã": {
+        "cal": 83,
+        "prot": 1.7,
+        "carb": 19,
+        "gord": 1.2
+    },
+    "salsinha": {
+        "cal": 36,
+        "prot": 3,
+        "carb": 6,
+        "gord": 0.8
+    },
+    "sardinha": {
+        "cal": 208,
+        "prot": 25,
+        "carb": 0,
+        "gord": 11
+    },
+    "seriguela": {
+        "cal": 65,
+        "prot": 0.9,
+        "carb": 16,
+        "gord": 0.5
+    },
+    "soja": {
+        "cal": 446,
+        "prot": 36,
+        "carb": 30,
+        "gord": 20
+    },
+    "tangerina": {
+        "cal": 53,
+        "prot": 0.8,
+        "carb": 13,
+        "gord": 0.3
+    },
+    "tapioca": {
+        "cal": 358,
+        "prot": 0.2,
+        "carb": 88,
+        "gord": 0.1
+    },
+    "uva": {
+        "cal": 69,
+        "prot": 0.7,
+        "carb": 18,
+        "gord": 0.2
+    },
+    "vagem": {
+        "cal": 31,
+        "prot": 1.8,
+        "carb": 7,
+        "gord": 0.1
+    },
+    "vegetais variados": {
+        "cal": 50,
+        "prot": 2,
+        "carb": 10,
+        "gord": 0.5
+    },
+    "vinagre": {
+        "cal": 20,
+        "prot": 0,
+        "carb": 0,
+        "gord": 0
+    },
+    "abacateiro": {
+        "cal": 160,
+        "prot": 2,
+        "carb": 9,
+        "gord": 15
+    },
+    "alfafa": {
+        "cal": 23,
+        "prot": 4,
+        "carb": 2,
+        "gord": 0.7
+    },
+    "alga nori": {
+        "cal": 35,
+        "prot": 5,
+        "carb": 5,
+        "gord": 0.3
+    },
+    "amêndoa crua": {
+        "cal": 575,
+        "prot": 21,
+        "carb": 22,
+        "gord": 49
+    },
+    "ananás": {
+        "cal": 50,
+        "prot": 0.5,
+        "carb": 13,
+        "gord": 0.1
+    },
+    "arroz branco": {
+        "cal": 130,
+        "prot": 2.7,
+        "carb": 28,
+        "gord": 0.3
+    },
+    "aspargos": {
+        "cal": 20,
+        "prot": 2.2,
+        "carb": 3.9,
+        "gord": 0.1
+    },
+    "azeite de oliva": {
+        "cal": 884,
+        "prot": 0,
+        "carb": 0,
+        "gord": 100
+    },
+    "batata inglesa": {
+        "cal": 77,
+        "prot": 2,
+        "carb": 17,
+        "gord": 0.1
+    },
+    "biscoito integral": {
+        "cal": 450,
+        "prot": 6,
+        "carb": 70,
+        "gord": 15
+    },
+    "broto de feijão": {
+        "cal": 30,
+        "prot": 3,
+        "carb": 6,
+        "gord": 0.2
+    },
+    "caju cru": {
+        "cal": 553,
+        "prot": 18,
+        "carb": 30,
+        "gord": 44
+    },
+    "camarão cozido": {
+        "cal": 85,
+        "prot": 18,
+        "carb": 1,
+        "gord": 1
+    },
+    "cana de açúcar": {
+        "cal": 269,
+        "prot": 0,
+        "carb": 73,
+        "gord": 0
+    },
+    "caponata": {
+        "cal": 140,
+        "prot": 2,
+        "carb": 12,
+        "gord": 10
+    },
+    "cereja": {
+        "cal": 50,
+        "prot": 1,
+        "carb": 12,
+        "gord": 0.3
+    },
+    "chuchu": {
+        "cal": 19,
+        "prot": 1,
+        "carb": 4,
+        "gord": 0.1
+    },
+    "damasco": {
+        "cal": 48,
+        "prot": 1.4,
+        "carb": 11,
+        "gord": 0.2
+    },
+    "dendê óleo": {
+        "cal": 884,
+        "prot": 0,
+        "carb": 0,
+        "gord": 100
+    },
+    "farinha de aveia": {
+        "cal": 389,
+        "prot": 13,
+        "carb": 66,
+        "gord": 7
+    },
+    "farinha de milho": {
+        "cal": 365,
+        "prot": 7,
+        "carb": 76,
+        "gord": 1.5
+    },
+    "farinha de rosca": {
+        "cal": 350,
+        "prot": 9,
+        "carb": 72,
+        "gord": 2
+    },
+    "figo seco": {
+        "cal": 249,
+        "prot": 3.3,
+        "carb": 64,
+        "gord": 0.9
+    },
+    "framboesa": {
+        "cal": 52,
+        "prot": 1.2,
+        "carb": 12,
+        "gord": 0.7
+    },
+    "gengibre cru": {
+        "cal": 80,
+        "prot": 1.8,
+        "carb": 18,
+        "gord": 0.7
+    },
+    "guaraná": {
+        "cal": 90,
+        "prot": 0,
+        "carb": 22,
+        "gord": 0
+    },
+    "jerimum caboclo": {
+        "cal": 25,
+        "prot": 1,
+        "carb": 6,
+        "gord": 0.1
+    },
+    "jiló cru": {
+        "cal": 29,
+        "prot": 1,
+        "carb": 7,
+        "gord": 0.2
+    },
+    "lentilha cozida": {
+        "cal": 116,
+        "prot": 9,
+        "carb": 20,
+        "gord": 0.4
+    },
+    "lima": {
+        "cal": 30,
+        "prot": 0.2,
+        "carb": 10,
+        "gord": 0
+    },
+    "mamão papaia": {
+        "cal": 43,
+        "prot": 0.5,
+        "carb": 11,
+        "gord": 0.3
+    },
+    "milho": {
+        "cal": 86,
+        "prot": 3.2,
+        "carb": 19,
+        "gord": 1.2
+    },
+    "pêra": {
+        "cal": 57,
+        "prot": 0.4,
+        "carb": 15,
+        "gord": 0.1
+    },
+    "quiabo": {
+        "cal": 33,
+        "prot": 2,
+        "carb": 7,
+        "gord": 0.2
+    }
+}

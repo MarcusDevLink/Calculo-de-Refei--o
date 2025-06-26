@@ -20,10 +20,37 @@
 
     <label for="alimento">Adicione alimento (ex: arroz 100g):</label>
     <input type="text" id="alimento" placeholder="Ex: arroz 100g">
-    <button onclick="adicionarAlimento()">Adicionar</button>
+    <button id="btnAdicionar" onclick="adicionarAlimento()" disabled>Adicionar</button>
     <button onclick="limparRefeicoes()" style="background-color: #dc3545; color: white;">Limpar Tudo</button>
 
     <div id="containerRefeicoes"></div>
+
+    <div id="containerRefeicoes">
+        <div class="refeicao-box" id="box-cafe">
+            <h3>Café da manhã</h3>
+            <ul id="lista-cafe"></ul>
+            <div class="macros-container" id="macros-cafe"></div>
+            <canvas id="grafico-cafe" width="300" height="300"></canvas>
+            <button onclick="exportarRefeicao('cafe')">Exportar .txt</button>
+        </div>
+
+        <div class="refeicao-box" id="box-almoco">
+            <h3>Almoço</h3>
+            <ul id="lista-almoco"></ul>
+            <div class="macros-container" id="macros-almoco"></div>
+            <canvas id="grafico-almoco" width="300" height="300"></canvas>
+            <button onclick="exportarRefeicao('almoco')">Exportar .txt</button>
+        </div>
+
+        <div class="refeicao-box" id="box-jantar">
+            <h3>Jantar</h3>
+            <ul id="lista-jantar"></ul>
+            <div class="macros-container" id="macros-jantar"></div>
+            <canvas id="grafico-jantar" width="300" height="300"></canvas>
+            <button onclick="exportarRefeicao('jantar')">Exportar .txt</button>
+        </div>
+    </div>
+
 
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
     <script src="main.js"></script>
