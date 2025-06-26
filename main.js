@@ -165,7 +165,7 @@ function atualizarInterface() {
                     }
                 });
             }
-        }, 50);
+        }, 0);
     });
 }
 
