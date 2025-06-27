@@ -4,8 +4,8 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Refeições do Dia</title>
-    <link rel="stylesheet" href="main.css">
+    <title>Calculadora de Refeições</title>
+    <link rel="stylesheet" href="main.css" />
 </head>
 
 <body>
@@ -19,39 +19,37 @@
     </select>
 
     <label for="alimento">Adicione alimento (ex: arroz 100g):</label>
-    <input type="text" id="alimento" placeholder="Ex: arroz 100g">
-    <button id="btnAdicionar" onclick="adicionarAlimento()" disabled>Adicionar</button>
-    <button onclick="limparRefeicoes()" style="background-color: #dc3545; color: white;">Limpar Tudo</button>
+    <input type="text" id="alimento" placeholder="Ex: arroz 100g" />
+    <button id="btnAdicionar" disabled>Adicionar</button>
+    <button id="btnLimpar" style="background-color: #dc3545; color: white;">Limpar Tudo</button>
 
-    <div id="containerRefeicoes"></div>
+    <!-- Seções para café, almoço e jantar -->
+    <div class="refeicao-box" id="box-cafe">
+        <h3>Café da manhã</h3>
+        <ul id="lista-cafe"></ul>
+        <div id="macros-cafe" class="macros-container"></div>
+        <canvas id="grafico-cafe" width="200" height="200"></canvas>
+        <button class="btn-exportar" data-tipo="cafe">Exportar .txt</button>
+    </div>
 
-    <div id="containerRefeicoes">
-        <div class="refeicao-box" id="box-cafe">
-            <h3>Café da manhã</h3>
-            <ul id="lista-cafe"></ul>
-            <div class="macros-container" id="macros-cafe"></div>
-            <canvas id="grafico-cafe" width="300" height="300"></canvas>
-            <button onclick="exportarRefeicao('cafe')">Exportar .txt</button>
-        </div>
+    <div class="refeicao-box" id="box-almoco">
+        <h3>Almoço</h3>
+        <ul id="lista-almoco"></ul>
+        <div id="macros-almoco" class="macros-container"></div>
+        <canvas id="grafico-almoco" width="200" height="200"></canvas>
+        <button class="btn-exportar" data-tipo="almoco">Exportar .txt</button>
+    </div>
 
-        <div class="refeicao-box" id="box-almoco">
-            <h3>Almoço</h3>
-            <ul id="lista-almoco"></ul>
-            <div class="macros-container" id="macros-almoco"></div>
-            <canvas id="grafico-almoco" width="300" height="300"></canvas>
-            <button onclick="exportarRefeicao('almoco')">Exportar .txt</button>
-        </div>
-
-        <div class="refeicao-box" id="box-jantar">
-            <h3>Jantar</h3>
-            <ul id="lista-jantar"></ul>
-            <div class="macros-container" id="macros-jantar"></div>
-            <canvas id="grafico-jantar" width="300" height="300"></canvas>
-            <button onclick="exportarRefeicao('jantar')">Exportar .txt</button>
-        </div>
+    <div class="refeicao-box" id="box-jantar">
+        <h3>Jantar</h3>
+        <ul id="lista-jantar"></ul>
+        <div id="macros-jantar" class="macros-container"></div>
+        <canvas id="grafico-jantar" width="200" height="200"></canvas>
+        <button class="btn-exportar" data-tipo="jantar">Exportar .txt</button>
     </div>
 
 
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
     <script src="main.js"></script>
 </body>

@@ -215,12 +215,6 @@
         "carb": 3,
         "gord": 20
     },
-    "pizza": {
-        "cal": 266,
-        "prot": 11,
-        "carb": 33,
-        "gord": 10
-    },
     "lasanha": {
         "cal": 135,
         "prot": 6,
@@ -1006,5 +1000,245 @@
         "prot": 2,
         "carb": 7,
         "gord": 0.2
+    },
+    "batata-doce": {
+        "cal": 86,
+        "prot": 1.6,
+        "carb": 20,
+        "gord": 0.1
+    },
+    "ovos": {
+        "cal": 155,
+        "prot": 13,
+        "carb": 1.1,
+        "gord": 11
+    },
+    "salmão": {
+        "cal": 206,
+        "prot": 22,
+        "carb": 0,
+        "gord": 13
+    },
+    "atum": {
+        "cal": 132,
+        "prot": 28,
+        "carb": 0,
+        "gord": 1
+    },
+    "chocolate amargo": {
+        "cal": 546,
+        "prot": 4.9,
+        "carb": 61.9,
+        "gord": 31
+    },
+    "nozes": {
+        "cal": 654,
+        "prot": 15.2,
+        "carb": 13.7,
+        "gord": 65.2
+    },
+    "amêndoas": {
+        "cal": 576,
+        "prot": 21.2,
+        "carb": 21.6,
+        "gord": 49.9
+    },
+    "pistache": {
+        "cal": 562,
+        "prot": 20.6,
+        "carb": 28,
+        "gord": 45.3
+    },
+    "quinoa": {
+        "cal": 120,
+        "prot": 4.1,
+        "carb": 21.3,
+        "gord": 1.9
+    },
+    "chia": {
+        "cal": 486,
+        "prot": 16.5,
+        "carb": 42.1,
+        "gord": 30.7
+    },
+    "linhaça": {
+        "cal": 534,
+        "prot": 18.3,
+        "carb": 28.9,
+        "gord": 42.2
+    },
+    "espinafre": {
+        "cal": 23,
+        "prot": 2.9,
+        "carb": 3.6,
+        "gord": 0.4
+    },
+    "rúcula": {
+        "cal": 25,
+        "prot": 2.6,
+        "carb": 3.7,
+        "gord": 0.7
+    },
+    "abóbora": {
+        "cal": 26,
+        "prot": 1,
+        "carb": 6.5,
+        "gord": 0.1
+    },
+    "coco": {
+        "cal": 354,
+        "prot": 3.3,
+        "carb": 15.2,
+        "gord": 33.5
+    },
+    "cabelinho de milho": {
+        "cal": 86,
+        "prot": 3.3,
+        "carb": 19,
+        "gord": 1.5
+    },
+    "sopa de legumes": {
+        "cal": 50,
+        "prot": 2,
+        "carb": 10,
+        "gord": 1
+    },
+    "sopa de frango": {
+        "cal": 150,
+        "prot": 20,
+        "carb": 5,
+        "gord": 5
+    },
+    "pizza": {
+        "cal": 285,
+        "prot": 12,
+        "carb": 36,
+        "gord": 10
+    },
+    "hambúrguer": {
+        "cal": 250,
+        "prot": 12,
+        "carb": 30,
+        "gord": 10
+    },
+    "batata frita": {
+        "cal": 365,
+        "prot": 3.4,
+        "carb": 63,
+        "gord": 17
+    },
+    "pudim": {
+        "cal": 150,
+        "prot": 4,
+        "carb": 20,
+        "gord": 6
+    },
+    "torta de maçã": {
+        "cal": 250,
+        "prot": 2,
+        "carb": 40,
+        "gord": 10
+    },
+    "pão de queijo": {
+        "cal": 300,
+        "prot": 10,
+        "carb": 30,
+        "gord": 15
+    },
+    "crepe": {
+        "cal": 200,
+        "prot": 6,
+        "carb": 30,
+        "gord": 8
+    },
+    "panqueca": {
+        "cal": 220,
+        "prot": 6,
+        "carb": 35,
+        "gord": 9
+    },
+    "pasta": {
+        "cal": 131,
+        "prot": 5,
+        "carb": 25,
+        "gord": 1.1
+    },
+    "risoto": {
+        "cal": 200,
+        "prot": 6,
+        "carb": 35,
+        "gord": 8
+    },
+    "cuscuz": {
+        "cal": 112,
+        "prot": 3.4,
+        "carb": 23,
+        "gord": 0.2
+    },
+    "taco": {
+        "cal": 200,
+        "prot": 10,
+        "carb": 25,
+        "gord": 8
+    },
+    "sushi": {
+        "cal": 200,
+        "prot": 10,
+        "carb": 30,
+        "gord": 5
+    },
+    "temaki": {
+        "cal": 250,
+        "prot": 12,
+        "carb": 35,
+        "gord": 8
+    },
+    "cachorro-quente": {
+        "cal": 150,
+        "prot": 5,
+        "carb": 30,
+        "gord": 5
+    },
+    "pastel": {
+        "cal": 300,
+        "prot": 8,
+        "carb": 40,
+        "gord": 15
+    },
+    "empada": {
+        "cal": 250,
+        "prot": 6,
+        "carb": 30,
+        "gord": 12
+    },
+    "torta salgada": {
+        "cal": 300,
+        "prot": 10,
+        "carb": 35,
+        "gord": 15
+    },
+    "salada de frutas": {
+        "cal": 80,
+        "prot": 1,
+        "carb": 20,
+        "gord": 0.5
+    },
+    "smoothie": {
+        "cal": 150,
+        "prot": 3,
+        "carb": 30,
+        "gord": 2
+    },
+    "suco de maçã": {
+        "cal": 46,
+        "prot": 0.1,
+        "carb": 11.5,
+        "gord": 0.1
+    },
+    "whisky": {
+        "cal": 250,
+        "prot": 0,
+        "carb": 0,
+        "gord": 0
     }
 }
